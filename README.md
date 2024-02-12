@@ -1,5 +1,7 @@
 <h1>Easy Shopping (PROJETO RESPONSIVO)</h1>
 <br>
+<h2>Deploy</h2>
+<a href="https://easyshoopping.netlify.app/"></a>
 <br>
 <h2>Este foi um dos projetos que aprendi no <a href="https://rodolfomori.com.br/devclub">DEVCLUB.</a></h2>
 <h2>Na qual foi utilizado as seguintes tecnologias:</h2>
